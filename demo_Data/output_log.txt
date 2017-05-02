@@ -1,0 +1,69 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     2044 MB
+    Driver:   10.18.10.3355
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.109 seconds
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\hl\Desktop\毕业设计游戏\demo_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on NetworkManager_Custom
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.329001 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1eec -> priority: 1 
+The referenced script on this Behaviour (Game Object 'laserPoint') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.351307 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1724.
+Total: 13.965456 ms (FindLiveObjects: 0.307482 ms CreateObjectMapping: 0.212543 ms MarkObjects: 3.157366 ms  DeleteObjects: 10.286780 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'laserPoint') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'laserPoint') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.773595 ms
+
+Unloading 1147 unused Assets to reduce memory usage. Loaded Objects now: 848.
+Total: 5.379027 ms (FindLiveObjects: 0.188595 ms CreateObjectMapping: 0.103919 ms MarkObjects: 0.606840 ms  DeleteObjects: 4.478388 ms)
+
